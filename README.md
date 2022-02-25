@@ -1,2 +1,7 @@
-# dio-desavio-github-primeiro-repositorio
-Curso integrante da Engenharia de Dados Cognizant
+# Desafio de Projeto sobre Git/Github da DIO
+# Engenharia de dados
+
+Repositório criado para o Desafio de Projeto
+
+## Links úteis:
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
